@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-1, Giorgos.instr;2, Jan.instr;3, Jana2.instr;4, Juan.instr;5, kelsey.instr;6, Mélanie.instr;7, Robert.instr;8, sara-1.instr;
-=======
-1, Giorgos.instr;2, Jan.instr;3, Jana.instr;4, Juan.instr;5, kelsey.instr;6, Mélanie.instr;7, Robert.instr;8, sara-1.instr;
-9, tamara-1.instr;
->>>>>>> 2744f8add6bb1fbdcfe5cfe192118c6b8a9216a4
+1 HEAD, Giorgos.instr;2, Jan.instr;3, Jana2.instr;4, Juan.instr;5, kelsey.instr;6, Mélanie.instr;7, Robert.instr;8, sara-1.instr;9 =======, Giorgos.instr;10, Jan.instr;11, Jana.instr;12, Juan.instr;13, kelsey.instr;14, Mélanie.instr;15, Robert.instr;16, sara-1.instr;17, tamara-1.instr;18, Tamara.instr;
