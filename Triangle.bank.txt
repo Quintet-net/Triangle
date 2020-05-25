@@ -9,3 +9,4 @@
 9, Tamara.instr;
 10, Ryszard.instr;
 11, Aigerim.instr;
+12, Tam01.instr;
