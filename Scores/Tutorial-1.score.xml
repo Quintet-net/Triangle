@@ -5,27 +5,27 @@
 <ScoreAnnotation CLASSNAME="com.softsynth.jmsl.score.ScoreAnnotation" Annotation="233.3oc6QtiCBCCDDsN9TX45fzFfJtATvOI5PTXHqAK4OHamBDh6N3MnHKwAHMoa73wdWMuWrJQLIUpYffuhW8hU8yvncXj7HyJAEnolzME54E5EE5kj9q7MKaHLX6MLL7sTpui5oAyGEG5jgDF3G8NTTOrF2B9tG4.m3PMG3moqjWtDV6hovVos+4792nylcVzkx2r2G0Is2sSohXJmCnTV80f2Jo+UX2LyMLyqFTQtsnR1YREaBs420ssn6uZAJpEnnVfhZAJpEfpEVe07C.MS.XbAv7I.Lt.XwD.FW.rbB.iA.XuYe.PNyRA" >
 </ScoreAnnotation>
 <orchestra CLASSNAME="com.softsynth.jmsl.score.Orchestra" >
-<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" EditEnabled="true" InsIndex="0" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" Name="MaxScoreIns-0" >
+<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" EditEnabled="true" InsIndex="0" Name="MaxScoreIns-0" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" >
 <dim index="4" defaultvalue="0.0" lowlimit="0.0" highlimit="3.0" name="EventFlag" />
 <dim index="5" defaultvalue="-1.0" lowlimit="-1.0" highlimit="127.0" name="originalPitch" />
 <dim index="6" defaultvalue="-1.0" lowlimit="-1.0" highlimit="10000.0" name="index" />
 </jmslscoreinstrument>
-<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" EditEnabled="true" InsIndex="1" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" Name="MaxScoreIns-1" >
+<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" EditEnabled="true" InsIndex="1" Name="MaxScoreIns-1" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" >
 <dim index="4" defaultvalue="0.0" lowlimit="0.0" highlimit="3.0" name="EventFlag" />
 <dim index="5" defaultvalue="-1.0" lowlimit="-1.0" highlimit="127.0" name="originalPitch" />
 <dim index="6" defaultvalue="-1.0" lowlimit="-1.0" highlimit="10000.0" name="index" />
 </jmslscoreinstrument>
-<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" EditEnabled="true" InsIndex="2" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" Name="MaxScoreIns-2" >
+<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" EditEnabled="true" InsIndex="2" Name="MaxScoreIns-2" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" >
 <dim index="4" defaultvalue="0.0" lowlimit="0.0" highlimit="3.0" name="EventFlag" />
 <dim index="5" defaultvalue="-1.0" lowlimit="-1.0" highlimit="127.0" name="originalPitch" />
 <dim index="6" defaultvalue="-1.0" lowlimit="-1.0" highlimit="10000.0" name="index" />
 </jmslscoreinstrument>
-<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" EditEnabled="true" InsIndex="3" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" Name="MaxScoreIns-3" >
+<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" EditEnabled="true" InsIndex="3" Name="MaxScoreIns-3" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" >
 <dim index="4" defaultvalue="0.0" lowlimit="0.0" highlimit="3.0" name="EventFlag" />
 <dim index="5" defaultvalue="-1.0" lowlimit="-1.0" highlimit="127.0" name="originalPitch" />
 <dim index="6" defaultvalue="-1.0" lowlimit="-1.0" highlimit="10000.0" name="index" />
 </jmslscoreinstrument>
-<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" EditEnabled="true" InsIndex="4" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" Name="MaxScoreIns-4" >
+<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" EditEnabled="true" InsIndex="4" Name="MaxScoreIns-4" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" >
 <dim index="4" defaultvalue="0.0" lowlimit="0.0" highlimit="3.0" name="EventFlag" />
 <dim index="5" defaultvalue="-1.0" lowlimit="-1.0" highlimit="127.0" name="originalPitch" />
 <dim index="6" defaultvalue="-1.0" lowlimit="-1.0" highlimit="10000.0" name="index" />
@@ -104,7 +104,7 @@
 </track>
 <track INDEX="3" >
 </track>
-<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Xoffset="-68.0" Yoffset="-74.0" Name="RenderedMessageBean_staff-0-0" Message="rendered Picster-Element[0] 265.3ocUPFrZCCCCFdOJhde0NMkRaOuw1kBYzsSiQP0Q0waM1AYGVGk9tO4zRGCAhe8qOIDp2YhIhumNPcjOAqgSfG6HQTcs0iWZ8t9CXWXv2DkdkkvrYPgtnDVHhdmIMvTsdbdSnqCuvcBxVLlWDLYCZb9TH1BO+vZ0aQhipssHSMpM3QXopBMegVJpdYP.ozTOkT8XxzlQq3vmjIEUuxNzaOPpsl.KzVNLzCEBoUtgh5mbA1FhS681IvYv42GFuk.6rN+syGE0pkZHG9fjxE6DSMrPeyLKacMznehQebef6p6BWsZX76Z7HE+OfTULt4K4y.5MsA9umx7UZnT18b3GY1LgD28KIapdRB" >
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-0" Message="rendered Picster-Element[0] 265.3ocUPFrZCCCCFdOJhde0NMkRaOuw1kBYzsSiQP0Q0waM1AYGVGk9tO4zRGCAhe8qOIDp2YhIhumNPcjOAqgSfG6HQTcs0iWZ8t9CXWXv2DkdkkvrYPgtnDVHhdmIMvTsdbdSnqCuvcBxVLlWDLYCZb9TH1BO+vZ0aQhipssHSMpM3QXopBMegVJpdYP.ozTOkT8XxzlQq3vmjIEUuxNzaOPpsl.KzVNLzCEBoUtgh5mbA1FhS681IvYv42GFuk.6rN+syGE0pkZHG9fjxE6DSMrPeyLKacMznehQebef6p6BWsZX76Z7HE+OfTULt4K4y.5MsA9umx7UZnT18b3GY1LgD28KIapdRB" Yoffset="-74.0" Xoffset="-68.0" >
 </staffUserBean>
 </staff>
 <staff INDEX="1" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="1" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
@@ -148,7 +148,7 @@
 </track>
 </staff>
 </measure>
-<measure WIDTH="1880" WIDTHSETBYHAND="true" TIMESIG="4 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="110.0" >
+<measure WIDTH="1790" WIDTHSETBYHAND="true" TIMESIG="20 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="150.0" >
 <staff INDEX="0" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="0" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
 <track INDEX="0" >
 </track>
@@ -158,7 +158,7 @@
 </track>
 <track INDEX="3" >
 </track>
-<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Xoffset="-132.0" Yoffset="-144.0" Name="RenderedMessageBean_staff-1-0" Message="rendered Picster-Element[0] 266.3ocUP1sZCCCCEdOJhd+pc15+WuACFE5naWMFAUG0D2kXGjcXsT569jSJcLDHN5nOIDp0ZBQhumpoFxEgUvYvgMjH1bs0yCs9T+Ery24JBRuYSgoygL8johbNzZMwNlx08ya7MM3.2YHYwXZQvn0nw5h9PE7xSqTeDHNn1VgLUnViGgEpMn4arjBp25DPJN1QQUKFMUIzMr+.YhA06rEck0jZqwyBcI66ZgLgrTtgGxekpCzowGZKGAW.qauu+T7rsz5tc8nnVtPCov4kTpXmXpgY5alIYksf58iL5B68bSdi+pUAi+jiGov+Ajpr9MOju.nyT44+9ISVpgGkcOANIylHj3teAnkQ5kD" >
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-0" Message="rendered Picster-Element[0] 266.3ocUP1sZCCCCEdOJhd+pc15+WuACFE5naWMFAUG0D2kXGjcXsT569jSJcLDHN5nOIDp0ZBQhumpoFxEgUvYvgMjH1bs0yCs9T+Ery24JBRuYSgoygL8johbNzZMwNlx08ya7MM3.2YHYwXZQvn0nw5h9PE7xSqTeDHNn1VgLUnViGgEpMn4arjBp25DPJN1QQUKFMUIzMr+.YhA06rEck0jZqwyBcI66ZgLgrTtgGxekpCzowGZKGAW.qauu+T7rsz5tc8nnVtPCov4kTpXmXpgY5alIYksf58iL5B68bSdi+pUAi+jiGov+Ajpr9MOju.nyT44+9ISVpgGkcOANIylHj3teAnkQ5kD" Yoffset="-144.0" Xoffset="-132.0" >
 </staffUserBean>
 </staff>
 <staff INDEX="1" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="1" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
@@ -202,7 +202,7 @@
 </track>
 </staff>
 </measure>
-<measure WIDTH="1960" WIDTHSETBYHAND="true" TIMESIG="4 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="50.0" >
+<measure WIDTH="1960" WIDTHSETBYHAND="true" TIMESIG="20 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="50.0" >
 <staff INDEX="0" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="0" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
 <track INDEX="0" >
 </track>
@@ -212,7 +212,7 @@
 </track>
 <track INDEX="3" >
 </track>
-<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Xoffset="-138.0" Yoffset="-128.0" Name="RenderedMessageBean_staff-2-0" Message="rendered Picster-Element[0] 263.3ocUPF0ZBDCCGeeTB99r8PQN84IrWDb31SiwQrW7tt4kdj1i4P769ROEGiPC+y+7KgP68tXhjGoiTGwIXEbFXriTw1asVes061Of8gAtNp8VTByKgBqlVnuduKMHTkcbdWnqCuxcFxVBlWDLYC57bJDagmeZk4sHIQytVTnZyF7DTZ1htuvFJZdYPAozTlRldL4ZynakvmjKEMuJdjaNRlctfnzMRXnGJTxF8FlUsgNhrml1yMSfKfmODFukf3a778yGU0xRKjCNnobwd0zBKr2MyxVeMM5mDjiGBRWUW3lUsfeWgmn3+AzphwMeMeAP10Fj+9TluzByzcOG9QmMSnwC+hd25UJ" >
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="rendered Picster-Element[0] 263.3ocUPF0ZBDCCGeeTB99r8PQN84IrWDb31SiwQrW7tt4kdj1i4P769ROEGiPC+y+7KgP68tXhjGoiTGwIXEbFXriTw1asVes061Of8gAtNp8VTByKgBqlVnuduKMHTkcbdWnqCuxcFxVBlWDLYC57bJDagmeZk4sHIQytVTnZyF7DTZ1htuvFJZdYPAozTlRldL4ZynakvmjKEMuJdjaNRlctfnzMRXnGJTxF8FlUsgNhrml1yMSfKfmODFukf3a778yGU0xRKjCNnobwd0zBKr2MyxVeMM5mDjiGBRWUW3lUsfeWgmn3+AzphwMeMeAP10Fj+9TluzByzcOG9QmMSnwC+hd25UJ" Yoffset="-128.0" Xoffset="-138.0" >
 </staffUserBean>
 </staff>
 <staff INDEX="1" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="1" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
@@ -256,7 +256,7 @@
 </track>
 </staff>
 </measure>
-<measure WIDTH="392" WIDTHSETBYHAND="true" TIMESIG="4 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="50.0" >
+<measure WIDTH="763" WIDTHSETBYHAND="true" TIMESIG="7 4" TIMESIGSETBYHAND="true" TEMPO="61.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="107.0" >
 <staff INDEX="0" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="0" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
 <track INDEX="0" >
 </track>
@@ -266,7 +266,7 @@
 </track>
 <track INDEX="3" >
 </track>
-<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Xoffset="-214.0" Yoffset="-136.0" Name="RenderedMessageBean_staff-3-0" Message="rendered Picster-Element[0] 266.3ocUPF0ZBCDCGeeTB997thcR0mcvdQvM2dZLJwqw1aydWI2UlNwu6KWq3XDH7O+yuDBoyZBQhumNPsjKBKgyfCaIQr4ZqGGa8t9CXmu2UEjdEEvCyfL87BXtH5rlXOSk5g4M91Vbj6LjrXLsHXxZzXcQenAdZ0R0aAhCpsMHSUp03QnPsAMeg0TP8bu.RwoNJp5vnoIgtg8eRlXP8JaQW8ARs03Ygtl88cPlPVK2Pd4KmB+fb0zNW8D3BXc68C2hms0V2syGE0hBMjBmWRohchoFlquYljM1JZvOxnKr2ysks9qVUL9cIdjB+GPpxF17X9BfNSim+6ojuPCyjcmCmjYSDRb2uf.85QM" >
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-0" Message="rendered Picster-Element[0] 266.3ocUPF0ZBCDCGeeTB997thcR0mcvdQvM2dZLJwqw1aydWI2UlNwu6KWq3XDH7O+yuDBoyZBQhumNPsjKBKgyfCaIQr4ZqGGa8t9CXmu2UEjdEEvCyfL87BXtH5rlXOSk5g4M91Vbj6LjrXLsHXxZzXcQenAdZ0R0aAhCpsMHSUp03QnPsAMeg0TP8bu.RwoNJp5vnoIgtg8eRlXP8JaQW8ARs03Ygtl88cPlPVK2Pd4KmB+fb0zNW8D3BXc68C2hms0V2syGE0hBMjBmWRohchoFlquYljM1JZvOxnKr2ysks9qVUL9cIdjB+GPpxF17X9BfNSim+6ojuPCyjcmCmjYSDRb2uf.85QM" Yoffset="-136.0" Xoffset="-214.0" >
 </staffUserBean>
 </staff>
 <staff INDEX="1" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="1" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
@@ -310,7 +310,7 @@
 </track>
 </staff>
 </measure>
-<measure WIDTH="392" WIDTHSETBYHAND="true" TIMESIG="4 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="50.0" >
+<measure WIDTH="218" WIDTHSETBYHAND="true" TIMESIG="3 8" TIMESIGSETBYHAND="true" TEMPO="61.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="17.0" >
 <staff INDEX="0" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="0" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
 <track INDEX="0" >
 </track>
@@ -362,7 +362,7 @@
 </track>
 </staff>
 </measure>
-<measure WIDTH="392" WIDTHSETBYHAND="true" TIMESIG="4 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="50.0" >
+<measure WIDTH="463" WIDTHSETBYHAND="true" TIMESIG="2 2" TIMESIGSETBYHAND="true" TEMPO="8.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="17.0" >
 <staff INDEX="0" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="0" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
 <track INDEX="0" >
 </track>
@@ -414,7 +414,7 @@
 </track>
 </staff>
 </measure>
-<measure WIDTH="392" WIDTHSETBYHAND="true" TIMESIG="4 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="50.0" >
+<measure WIDTH="290" WIDTHSETBYHAND="true" TIMESIG="9 16" TIMESIGSETBYHAND="true" TEMPO="20.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="17.0" >
 <staff INDEX="0" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="0" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
 <track INDEX="0" >
 </track>
@@ -466,7 +466,7 @@
 </track>
 </staff>
 </measure>
-<measure WIDTH="392" WIDTHSETBYHAND="true" TIMESIG="4 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="50.0" >
+<measure WIDTH="180" WIDTHSETBYHAND="true" TIMESIG="20 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="17.0" >
 <staff INDEX="0" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="0" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
 <track INDEX="0" >
 </track>
@@ -518,7 +518,7 @@
 </track>
 </staff>
 </measure>
-<measure WIDTH="1500" WIDTHSETBYHAND="true" TIMESIG="4 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="50.0" >
+<measure WIDTH="1900" WIDTHSETBYHAND="true" TIMESIG="4 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="120.0" >
 <staff INDEX="0" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="0" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
 <track INDEX="0" >
 </track>
@@ -528,7 +528,7 @@
 </track>
 <track INDEX="3" >
 </track>
-<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Xoffset="-228.0" Yoffset="-142.0" Name="RenderedMessageBean_staff-8-0" Message="rendered Picster-Element[0] 266.3ocUPFzZCCCCEd+TD69pcXMk1ddC1kBcqamFifpiZh2ZrBxNrNJ8+9jSKqLDHd9oO+rv8dWLQxczdpiBIXIbDBXGoh0WF834Qua+.1xCg5nNqnnDJmAE1EkvLUz6coAgpriA33tN7L3QHaIXNI31UnyGRbrEd5gkl2hjDMaZQgpMqvCvbyZz8E1PQyyCJHklDnjoGSt1L5Zg+jbon4Uwigl8jYiiEktQ3gdnPIazcnr5EdKIoI8glagSfOriGWEV7M9v00GU4h4VHWAVa4CaUSKLy9mYV15qoQ+jfg3NV5p53KV0B9cEdfh+GH+LiIeteBvfqkkqeJSWXg60rmB+n2MSn0M+B7QM5sJ" >
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-8-0" Message="rendered Picster-Element[0] 266.3ocUPFzZCCCCEd+TD69pcXMk1ddC1kBcqamFifpiZh2ZrBxNrNJ8+9jSKqLDHd9oO+rv8dWLQxczdpiBIXIbDBXGoh0WF834Qua+.1xCg5nNqnnDJmAE1EkvLUz6coAgpriA33tN7L3QHaIXNI31UnyGRbrEd5gkl2hjDMaZQgpMqvCvbyZz8E1PQyyCJHklDnjoGSt1L5Zg+jbon4Uwigl8jYiiEktQ3gdnPIazcnr5EdKIoI8glagSfOriGWEV7M9v00GU4h4VHWAVa4CaUSKLy9mYV15qoQ+jfg3NV5p53KV0B9cEdfh+GH+LiIeteBvfqkkqeJSWXg60rmB+n2MSn0M+B7QM5sJ" Yoffset="-142.0" Xoffset="-228.0" >
 </staffUserBean>
 </staff>
 <staff INDEX="1" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="1" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
@@ -572,7 +572,7 @@
 </track>
 </staff>
 </measure>
-<measure WIDTH="1880" WIDTHSETBYHAND="true" TIMESIG="4 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="50.0" >
+<measure WIDTH="1875" WIDTHSETBYHAND="true" TIMESIG="60 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="90.0" >
 <staff INDEX="0" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="0" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
 <track INDEX="0" >
 </track>
@@ -582,7 +582,7 @@
 </track>
 <track INDEX="3" >
 </track>
-<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Xoffset="-142.0" Yoffset="-140.0" Name="RenderedMessageBean_staff-9-0" Message="rendered Picster-Element[0] 263.3ocUPErSCCCCkOEqcmkTw5XamAItLohJbBgp7R8RCrlT4jBCMs+cbamFBYIqme9Y6WRmyDSDeKcfZIeB1.m.O1RBn3RqGmZ8l9cXWn2WGkd2qg7bHSmqgkBnyYR8LUoGm2DZawIcmfAp3WVX1Vz37oPrAd5gMpWiDGUkMHS0ps3QXkp.MehVJpdtWDRo4dJo5vjoYPZAG9fLon5E1gd6ARUZBrn1xg9NHSTZECrrpTNMwykaNCNCN+9vnOBry57WsNJn0qzvP3CRZnXmPJOH8UxAXiqlF4SL5i6CbaUa3BUMieWgGo3+EHUYiadJeFPuoIv+8grXsFtS18B3GY1AERbyuT203kO" >
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-9-0" Message="rendered Picster-Element[0] 263.3ocUPErSCCCCkOEqcmkTw5XamAItLohJbBgp7R8RCrlT4jBCMs+cbamFBYIqme9Y6WRmyDSDeKcfZIeB1.m.O1RBn3RqGmZ8l9cXWn2WGkd2qg7bHSmqgkBnyYR8LUoGm2DZawIcmfAp3WVX1Vz37oPrAd5gMpWiDGUkMHS0ps3QXkp.MehVJpdtWDRo4dJo5vjoYPZAG9fLon5E1gd6ARUZBrn1xg9NHSTZECrrpTNMwykaNCNCN+9vnOBry57WsNJn0qzvP3CRZnXmPJOH8UxAXiqlF4SL5i6CbaUa3BUMieWgGo3+EHUYiadJeFPuoIv+8grXsFtS18B3GY1AERbyuT203kO" Yoffset="-140.0" Xoffset="-142.0" >
 </staffUserBean>
 </staff>
 <staff INDEX="1" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="1" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
@@ -626,7 +626,7 @@
 </track>
 </staff>
 </measure>
-<measure WIDTH="450" WIDTHSETBYHAND="false" TIMESIG="4 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="50.0" >
+<measure WIDTH="1850" WIDTHSETBYHAND="true" TIMESIG="60 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="SINGLE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" MEASURELEFTMARGIN="140.0" >
 <staff INDEX="0" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="0" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
 <track INDEX="0" >
 </track>
@@ -636,7 +636,7 @@
 </track>
 <track INDEX="3" >
 </track>
-<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Xoffset="-202.0" Yoffset="-136.0" Name="RenderedMessageBean_staff-10-0" Message="rendered Picster-Element[0] 264.3ocUPFsRCDCDE0Okg9tMYo0ZaeVAQnPkpOIxxzrS2MZ2IKSxhUJ8e2IaKVj.St4NmbyP57tXhjao8TKwIXIbDXrkTw5Ksd7bq2se.aC8bUT6UXKf6lnayKfYpny6R8BUZGBvEZawyfGgrkf4jfQqPmmSgXC7zCKMuEIIZ1zfBUYVgGf4l0n6KrlhlW5UPJMlojoCStlL5ZI7I4RQyqhG458jYiKHJcsD56fBkrVmg6KeFYbbGWOBNAddWXXPBhu1yWGdTkKlag7hCZIeXqZZgY1+LyxFeEM3mDji6BRaYa3hUkfeWhGn3+AxOyPxmqm.jcMA45WxzEVXhl8T3G8tYBccyuPw3kWn" >
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-10-0" Message="rendered Picster-Element[0] 264.3ocUPFsRCDCDE0Okg9tMYo0ZaeVAQnPkpOIxxzrS2MZ2IKSxhUJ8e2IaKVj.St4NmbyP57tXhjao8TKwIXIbDXrkTw5Ksd7bq2se.aC8bUT6UXKf6lnayKfYpny6R8BUZGBvEZawyfGgrkf4jfQqPmmSgXC7zCKMuEIIZ1zfBUYVgGf4l0n6KrlhlW5UPJMlojoCStlL5ZI7I4RQyqhG458jYiKHJcsD56fBkrVmg6KeFYbbGWOBNAddWXXPBhu1yWGdTkKlag7hCZIeXqZZgY1+LyxFeEM3mDji6BRaYa3hUkfeWhGn3+AxOyPxmqm.jcMA45WxzEVXhl8T3G8tYBccyuPw3kWn" Yoffset="-136.0" Xoffset="-202.0" >
 </staffUserBean>
 </staff>
 <staff INDEX="1" CLEF="0" CLEFSETBYHAND="false" INSTRUMENTINDEX="1" INSINDEXSETBYHAND="false" KEYSIGTYPE="0" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="0" EXTENDEDLINESBELOW="0" >
